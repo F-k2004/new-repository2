@@ -1,5 +1,5 @@
 # update_readme.py
-import datetim
+import datetime
 import random
 
 quotes = [
